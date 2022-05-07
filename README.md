@@ -1,3 +1,4 @@
 # Awesome blogs
 
-| Issue Date      | Topic  |
+| Issue Date      |    Topic    |
+| :---            |     ----:   |
