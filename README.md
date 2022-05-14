@@ -6,7 +6,7 @@
 | Blog 2          | [Adding Color to Your Output From C](https://medium.com/@selvarajk/adding-color-to-your-output-from-c-58f1a4dc4e75) |
 | Blog 3          | [Deploy A Static Website with Docker](https://medium.com/@selvarajk/deploy-a-static-website-with-docker-597365d04523) |
 | Blog 4          | [Install Jenkins on Ubuntu](https://medium.com/@selvarajk/how-to-install-jenkins-on-ubuntu-bf427e9f709e) |
-| Blog 5          |             |
+| Blog 5          | [Guide to Git and GitHub](https://medium.com/@selvarajk/guide-to-git-and-github-22189720d1bf) |
 | Blog 6          |             |
 |                 |             |
 |                 |             |
