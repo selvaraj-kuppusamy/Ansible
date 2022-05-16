@@ -7,6 +7,7 @@
 | Blog 3          | [Deploy A Static Website with Docker](https://medium.com/@selvarajk/deploy-a-static-website-with-docker-597365d04523) |
 | Blog 4          | [Install Jenkins on Ubuntu](https://medium.com/@selvarajk/how-to-install-jenkins-on-ubuntu-bf427e9f709e) |
 | Blog 5          | [Guide to Git and GitHub](https://medium.com/@selvarajk/guide-to-git-and-github-22189720d1bf) |
-| Blog 6          |             |
-|                 |             |
-|                 |             |
+| Blog 6          | [Host Static Website in GitHub.](https://medium.com/@selvarajk/how-to-host-static-website-in-github-1191f5288169) |
+| Blog 7          | [Create an AWS account](https://medium.com/@selvarajk/how-to-create-an-aws-account-3a6682818355) |
+| Blog 8          | [Reset Jenkins Admin User Password](https://medium.com/@selvarajk/how-to-reset-jenkins-admin-user-password-6fb29d4398bb) |
+| Blog 9          | [Install Ubuntu Server on VirtualBox](https://medium.com/@selvarajk/install-ubuntu-server-on-virtualbox-57d9b9d490a5) |
