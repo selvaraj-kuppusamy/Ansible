@@ -12,6 +12,8 @@
 | Blog 8          | [Reset Jenkins Admin User Password](https://medium.com/@selvarajk/how-to-reset-jenkins-admin-user-password-6fb29d4398bb) |
 | Blog 9          | [Install Ubuntu Server on VirtualBox](https://medium.com/@selvarajk/install-ubuntu-server-on-virtualbox-57d9b9d490a5) |
 | Blog 10         | [Kubernetes Setup in Ubuntu](https://medium.com/@selvarajk/kubernetes-setup-in-ubuntu-c32e8fd2bac0) |
-| Blog 11         | [Kubernetes Pods in Ubuntu]() |
-| Blog 12         | []() |
+| Blog 11         | [Red Hat Enterprise Linux 9 installation in VirtualBox](https://medium.com/@selvarajk/install-redhat-enterprise-linux-9-in-virtual-box-d98edb7daa68) |
+| Blog 12         | [Best Platform to Learn DevOps.](https://medium.com/@selvarajk/best-platform-to-devops-6c1a8860093b) |
+| Blog 13         | [CentOS Linux installation in VirtualBox](https://medium.com/@selvarajk/centos-linux-installation-in-virtualbox-719086f37e22) |
+
 
