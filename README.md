@@ -15,5 +15,6 @@
 | Blog 11         | [Red Hat Enterprise Linux 9 installation in VirtualBox](https://medium.com/@selvarajk/install-redhat-enterprise-linux-9-in-virtual-box-d98edb7daa68) |
 | Blog 12         | [Best Platform to Learn DevOps.](https://medium.com/@selvarajk/best-platform-to-devops-6c1a8860093b) |
 | Blog 13         | [CentOS Linux installation in VirtualBox](https://medium.com/@selvarajk/centos-linux-installation-in-virtualbox-719086f37e22) |
+| Blog 14         | [Windows 11 Installation in VirtualBox](https://medium.com/@selvarajk/windows-11-installation-in-virtualbox-5f015cf96ce4) |
 
 
