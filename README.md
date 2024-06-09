@@ -1,6 +1,6 @@
 # Awesome blogs
 
-| Issue Date      |    Topic    |
+| Blog no         |    Topic    |
 | :---            |     ----:   |
 | Blog 1          | [Install Google Chrome in Ubuntu](https://medium.com/@selvarajk/how-to-install-google-chrome-in-ubuntu-20-04-74326d29d1a5) |
 | Blog 2          | [Adding Color to Your Output From C](https://medium.com/@selvarajk/adding-color-to-your-output-from-c-58f1a4dc4e75) |
@@ -16,5 +16,10 @@
 | Blog 12         | [Best Platform to Learn DevOps.](https://medium.com/@selvarajk/best-platform-to-devops-6c1a8860093b) |
 | Blog 13         | [CentOS Linux installation in VirtualBox](https://medium.com/@selvarajk/centos-linux-installation-in-virtualbox-719086f37e22) |
 | Blog 14         | [Windows 11 Installation in VirtualBox](https://medium.com/@selvarajk/windows-11-installation-in-virtualbox-5f015cf96ce4) |
+| Blog 15         | [Which Linux is best for me?](https://medium.com/@selvarajk/which-linux-is-best-for-me-edd91023aee2) |
+| Blog 16         | [Manage Plugins in Jenkins](https://medium.com/@selvarajk/manage-plugins-in-jenkins-eff7f2030aa) |
+| Blog 17         | [Rent Graphics Processing Unit(GPU) Online](https://medium.com/@selvarajk/how-to-rent-graphics-processing-unit-gpu-online-c7fbc5474ae3) |
+| Blog 18         | [Create a virtual machine in Proxmox](https://medium.com/@selvarajk/create-a-virtual-machine-in-proxmox-313bffaa4249) |
+
 
 
